@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "meuapp",
+    "slug": "meuapp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "ca1e564c-c355-4ad8-bc73-3297ef93c618"
+      }
+    },
+    "owner": "the-middle"
+  }
+}
